@@ -1,5 +1,4 @@
-// const key = process.env.REACT_APP_MOVIE_API_KEY;
-const key = 'b5edd0f732d464a0069a4eba05206079';
+const key = process.env.REACT_APP_MOVIE_API_KEY;
 
 
 const requests = {
